@@ -1,0 +1,108 @@
+body {
+    background-image: url(fadedroad50.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fcebb6;
+    color: #221811;
+    font: Arial;
+}
+
+#wrapper {
+
+    min-width: 900px;
+    max-width: 1280px;
+    background-color: #fefaeb;
+    box-shadow: #d26e27;
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+
+header {
+
+    color: #8c3826;
+    background-color: #d2b48c;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h1 {
+    line-height: 3em;
+}
+
+nav {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+nav ul {list-style-type: none;
+    padding-left: 0;
+    margin: 0 auto;
+    
+    
+
+}
+
+nav a {
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+footer {
+    padding: 1em, solid;
+    background-color: #d2b48c;
+    border-top: #8C3826;
+    border-top: 2px;
+    font-size: .60em;
+    font: italic;
+    text-align: center;
+
+
+}
+
+h4 {
+    background-color: #d2b48c;
+    font-size: 1.2em;
+    padding-left: .5em;
+    padding-bottom: .25em;
+}
+
+h3 {
+    color: #8C3826;
+
+}
+
+dt {
+    color: #8C3826;
+}
+
+main {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+    display: block;
+}
+
+details {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+img {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#homehero {
+    height: 300px;
+    background-image: url(hero.jpg
+);
+    background-size: cover;
+}
